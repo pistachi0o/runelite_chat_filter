@@ -1,0 +1,15 @@
+***Filtered Words***
+quitting,The #1,the next 25 players get, play high win, win more, dice game, payout, (100k-100m), 100k min, gambling clan, with a roll, 1M min, pogrs, gpstall, jackpot, - veg, has cashed in, bet responsibly, has ran out of T, Don't trust level 3, First person to show me 50m+, gambler, scammer, has been P, slots, only accepts C, duel in progress, t by being s, open 100k-100m, spending max cash, knöwn, lürër, stöp, scäm, Allways wanted the lnfernal,Fròst, trading with, 0m, sell me all, buying torva,do not pay ge,buying all valuable,looking for someone who sells me,buying arcane,seriously? you're still adding, stop trying to befriend, i saw you scam someone, stop pming all my,your fake bot,your scam tactics,trading up,fake non-automated,trade scambot,don't trust ven,scambot,big bets are fake,fake 'bots',l0st with a r0ll,isn't it suspicious that only,plzzz help me report,plzz help me report,venezuelan hosts,you guys say the same stuff over and over,test your luck!,o   s   r   s,spare a bond,need a bond,doubling,twitch/,will try to add you for fake telegrab, is a hacker going around adding, scam you on discord,can scam,to scam them, add you back on, y0tube, youtube,careful guys dont add him, Runestöck,rsnation,runèshop,C <> M, O s r s g d, o s r s g d, () s r s g d,rsmarket, social engineer you, pvp telegrab lurer, is someone nice enough, is anyone nice enough, give me 2m,rsmarkét
+
+***Filtered Regex***
+^(.*?(\b(N|n)eed bond pl(ea)?(s|z)(e)?\b)[^$]*)$
+^(.*?(\b(N|n)eed \d{1,4}(gp|k|m|b) pl(ea)?(s|z)(e)?\b)[^$]*)$
+
+***Filtered Names***
+^(.*?(\bGAMBLE \d{1,9}\b)[^$]*)$
+^(.*?(\bBET \d{1,9}\b)[^$]*)$
+^(.*?(\bFrost [A-Za-z]\d{1,9}[A-Za-z]\d{1,9}\b)[^$]*)$
+^(.*?(\bFrost \d{1,9}[A-Za-z]\d{1,9}[A-Za-z]\b)[^$]*)$
+^(.*?(\bRoyal [A-Za-z]\d{1,9}[A-Za-z]\d{1,9}\b)[^$]*)$
+^(.*?(\bRoyal \d{1,9}[A-Za-z]\d{1,9}[A-Za-z]\b)[^$]*)$
+^(.*?(\bCASINO \d{1,9}M\b)[^$]*)$
